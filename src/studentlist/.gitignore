@@ -12,6 +12,6 @@ dist/
 nbdist/
 .nb-gradle/
 
-/src/studentlist/Test.java
+/src/studentlist/test.java
 
 # End of https://www.gitignore.io/api/netbeans
